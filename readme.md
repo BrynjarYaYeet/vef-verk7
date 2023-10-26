@@ -1,3 +1,7 @@
+Link að síðu: https://soft-jalebi-b882cb.netlify.app
+
+
+
 # Vefforritun 1, 2023: Verkefni 7, JS #1
 
 [Kynning og byrjun á verkefni úr fyrirlestri 9](https://youtu.be/95g4uylHkyQ).
